@@ -21,5 +21,9 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 Enlace: Gazebo es un simulador de robótica 2D/3D 
 https://gazebosim.org/docs
 
+****Tutoriales Fusión 360****
+Enlace: Autodesk Fusion 360 es un software con extensiones avanzadas para el diseño y la fabricación inteligente en la nube
+https://www.youtube.com/playlist?list=PL55BJ0x8OC8KtOe_NUhDv_uEbeItggh14
+
 ****Materiales de Laboratorio****
 https://www.youtube.com/@VangHa/videos
