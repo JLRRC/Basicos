@@ -21,6 +21,8 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 Enlace: Curso de ESP32
 https://www.youtube.com/playlist?list=PLCTD_CpMeEKTvjzabAvLGHakg-ql6t0q6
 
+https://www.youtube.com/watch?v=zs_MhHyLOao&list=PLdsx9TbBHhqezmUSxyCV061DvmHzWAONI&index=1
+
 ****Tutoriales GAZEBO****
 Enlace: Gazebo es un simulador de robótica 2D/3D 
 https://gazebosim.org/docs
