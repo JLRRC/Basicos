@@ -17,6 +17,10 @@ Crear formatos sofisticados para tu prosa y código en GitHub con sintaxis simpl
 Enlace: 
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+****ESP32****
+Enlace: Curso de ESP32
+https://www.youtube.com/playlist?list=PLCTD_CpMeEKTvjzabAvLGHakg-ql6t0q6
+
 ****Tutoriales GAZEBO****
 Enlace: Gazebo es un simulador de robótica 2D/3D 
 https://gazebosim.org/docs
