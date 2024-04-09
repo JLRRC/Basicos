@@ -35,3 +35,7 @@ https://www.youtube.com/playlist?list=PL55BJ0x8OC8KtOe_NUhDv_uEbeItggh14
 
 ****Materiales de Laboratorio****
 https://www.youtube.com/@VangHa/videos
+
+****Fusion 360***
+https://www.youtube.com/playlist?list=PLAmv_mKKsa-OKNyl3P68hYTDIXsf51q9e
+
